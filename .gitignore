@@ -1,0 +1,13 @@
+# cache and Nextflow
+.DS_Store
+.cache
+.idea
+nextflow
+work
+.nextflow*
+.vscode
+simple_ex/results
+simple_ex/transcript-index
+
+# testing
+sandbox
