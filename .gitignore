@@ -8,6 +8,7 @@ work
 .vscode
 simple_ex/results
 simple_ex/transcript-index
+vc_workflow/results
 
 # testing
 sandbox
